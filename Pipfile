@@ -11,6 +11,7 @@ matplotlib = "*"
 seaborn = "*"
 plotly = "*"
 nbformat = "*"
+ipywidgets = "*"
 
 [dev-packages]
 ipykernel = "*"
