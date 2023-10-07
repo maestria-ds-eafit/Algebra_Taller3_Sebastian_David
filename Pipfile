@@ -9,6 +9,8 @@ np = "*"
 numpy = "*"
 matplotlib = "*"
 seaborn = "*"
+plotly = "*"
+nbformat = "*"
 
 [dev-packages]
 ipykernel = "*"
