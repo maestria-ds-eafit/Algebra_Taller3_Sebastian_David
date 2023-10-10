@@ -12,6 +12,8 @@ seaborn = "*"
 plotly = "*"
 nbformat = "*"
 ipywidgets = "*"
+networkx = "*"
+scipy = "*"
 
 [dev-packages]
 ipykernel = "*"
